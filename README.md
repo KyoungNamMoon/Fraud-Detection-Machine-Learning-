@@ -24,5 +24,5 @@ This repository contains a machine learning project developed for **CS4824 (Mach
 3. **Model Training:** Training Logistic Regression to accurately classify transactions as legitimate or fraudulent.
 4. **Evaluation:** Utilizing Confusion Matrix, Precision, Recall, F1-Score, and PR-AUC to better reflect the model's performance on the critical minority class.
 
-## 👨‍💻 Author
+## Team
 * Krishna Mattaparthi, Justin Jiang, Hemansh Adunoor, Kyoungnam Moon
